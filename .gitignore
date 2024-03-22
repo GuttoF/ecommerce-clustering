@@ -34,8 +34,9 @@ Temporary Items
 *.icloud
 
 ### Data ###
-data/*.csv
-data/*.pkl
+*.csv
+data/interim/*.pkl
+data/processed/*.pkl
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
